@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Vituvo
 - 👀 I’m interested in automation, wether it be backups and restores, database creation for game servers, creating game servers, you name it, I'm there.
-- 🌱 I’m currently learning everything I can and everyday that I can.
+- 🌱 I’m currently learning everything I can, everyday that I can.
 - 💞️ I’m looking to collaborate on automation projects that make people happy.
